@@ -115,4 +115,5 @@ def rag_chain(question):
 # Use the RAG App
 create_plan(30, 3)
 
+# Look into structured output
 # Currently creates wrong mileage every time. Hmm.
